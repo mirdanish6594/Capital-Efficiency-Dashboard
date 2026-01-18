@@ -9,8 +9,6 @@
 
 **Transform raw sales data into actionable financial intelligence**
 
-[Live Demo](https://capital-efficiency-dashboard-gqj2baegfydjfx5wdirbhg.streamlit.app/) • [Report Issue](https://github.com/mirdanish6594/capital-efficiency-database/issues) • [Request Feature](https://github.com/mirdanish6594/capital-efficiency-database/issues)
-
 </div>
 
 ---
@@ -120,8 +118,8 @@ capital-efficiency-database/
 │   ├── financial_db.sqlite             # SQLite Database (Auto-generated)
 │   │
 │   └── pages/
-│       ├── 2_Efficiency_&_Risk.py      # Inventory & Credit Risk Analytics
-│       └── 3_Pareto_Analysis.py        # Customer Concentration Analysis
+│       ├── Efficiency_&_Risk.py      # Inventory & Credit Risk Analytics
+│       └── Pareto_Analysis.py        # Customer Concentration Analysis
 │
 ├── requirements.txt                    # Python Dependencies
 ├── README.md                          # Project Documentation
@@ -132,8 +130,8 @@ capital-efficiency-database/
 
 - **`app.py`**: Main dashboard featuring executive KPIs, revenue trends, and profitability analysis
 - **`data_gen.py`**: Automated ETL script that generates realistic financial data and creates the SQLite database
-- **`2_Efficiency_&_Risk.py`**: Working capital and credit risk analysis page
-- **`3_Pareto_Analysis.py`**: 80/20 customer revenue concentration analysis
+- **`Efficiency_&_Risk.py`**: Working capital and credit risk analysis page
+- **`Pareto_Analysis.py`**: 80/20 customer revenue concentration analysis
 - **`financial_db.sqlite`**: Local database file (generated on first run)
 
 ---
@@ -215,7 +213,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Danish Mir**
 
 - GitHub: [@mirdanish6594](https://github.com/mirdanish6594)
-- LinkedIn: [Connect with me](https://linkedin.com/in/mirdanish6594)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/danish-mir-767792202/)
 
 ---
 
