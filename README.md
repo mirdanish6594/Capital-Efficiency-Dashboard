@@ -1,7 +1,7 @@
-# Financial Analyst Portfolio: Strategic Performance Dashboard
+# Capital Efficiency Dashboard
 
 ## 📊 Project Overview
-This project demonstrates the transformation of raw sales data into actionable financial intelligence. By leveraging **Python (Streamlit)** and **SQL (SQLite)**, I built an interactive dashboard that moves beyond basic reporting to strategic analysis, focusing on **Profitability**, **Working Capital Efficiency**, and **Credit Risk**.
+This demonstrates the transformation of raw sales data into actionable financial intelligence. By leveraging **Python (Streamlit)** and **SQL (SQLite)**, I built an interactive dashboard that moves beyond basic reporting to strategic analysis, focusing on **Profitability**, **Working Capital Efficiency**, and **Credit Risk**.
 
 The application mimics a real-world financial reporting tool, allowing stakeholders to drill down into margins, identify "dead stock," and mitigate accounts receivable risk.
 
@@ -33,8 +33,8 @@ The application mimics a real-world financial reporting tool, allowing stakehold
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/mirdanish6594/Data-analysis-in-a-model-car-database.git](https://github.com/mirdanish6594/Data-analysis-in-a-model-car-database.git)
-    cd Data-analysis-in-a-model-car-database
+    git clone [https://github.com/mirdanish6594/capital-efficiency-database.git](https://github.com/mirdanish6594/capital-efficiency-database.git)
+    cd capital-efficiency-database
     ```
 
 2.  **Install Dependencies**
